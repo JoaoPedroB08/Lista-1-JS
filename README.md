@@ -1,1 +1,1 @@
-# Lista-1-JS
+# 🐧👊Listas de exercícios de JavaScript concluídas em aula.👊🐧
